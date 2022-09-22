@@ -1,3 +1,5 @@
+// Robin de Jong and Abbe Piels
+// CSC 254 Assignment 2: syntax error recovery
 /* Complete recursive descent parser for the calculator language.
    Builds on figure 2.16 in the text.  Prints a trace of productions
    predicted and tokens matched.  Does no error recovery: prints

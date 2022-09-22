@@ -1,4 +1,5 @@
-/* Simple ad-hoc scanner for the calculator language.
+// Robin de Jong and Abbe Piels
+// CSC 254 Assignment 2: syntax error recovery/* Simple ad-hoc scanner for the calculator language.
    Dies on lexical errors.
    Michael L. Scott, 2008-2022.
 */

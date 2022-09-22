@@ -1,3 +1,5 @@
+# Robin de Jong and Abbe Piels
+# CSC 254 Assignment 2: syntax error recovery
 # Trivial makefile for the calculator scanner/parser.
 # Michael L. Scott, 2008-2022.
 
