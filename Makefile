@@ -6,6 +6,10 @@
 # Note that the rule for the goal (parse)
 # must be the first one in this file.
 
+#We’ve given you a trivial Makefile.  You should add to it a target test 
+#that causes make to pipe sample calculator programs (of your choosing)
+#into your parser. This will make it easier for the TAs to reproduce your tests. 
+
 CPP = g++
 CPPFLAGS = -std=c++17 -g -O2 -Wall -Wpedantic
 
@@ -20,3 +24,4 @@ clean:
 
 parse.o: scan.hpp
 scan.o: scan.hpp
+ 

@@ -1,8 +1,8 @@
 // Robin de Jong and Abbe Piels
 // CSC 254 Assignment 2: syntax error recovery
-/* Definitions the scanner shares with the parser.
-   Michael L. Scott, 2008-2022.
-*/
+// Definitions the scanner shares with the parser.
+//  Michael L. Scott, 2008-2022.
+//
 
 #include <tuple>
 using std::tuple;
